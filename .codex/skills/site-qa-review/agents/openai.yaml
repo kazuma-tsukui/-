@@ -1,0 +1,4 @@
+interface:
+  display_name: "サイトQAレビュー"
+  short_description: "レスポンシブUI・操作性・EC購入導線を総合検証します"
+  default_prompt: "レシピサイトのUI/UX、リンク、レスポンシブ表示を優先度付きで監査してください。"
