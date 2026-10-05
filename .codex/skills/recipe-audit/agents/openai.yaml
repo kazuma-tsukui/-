@@ -1,0 +1,4 @@
+interface:
+  display_name: "レシピ監査"
+  short_description: "レシピ内容・材料・工程・商品情報の整合性を詳しく監査します"
+  default_prompt: "レシピデータを監査し、根拠付きで問題箇所・理由・推奨修正を報告してください。"
